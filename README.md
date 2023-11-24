@@ -15,3 +15,4 @@ df_kick = pd.read_csv(url_dontgetkicked)
 
 ## Vídeos
 - [Vídeo entrega 2](https://www.youtube.com/watch?v=hI1qfn-OvdA&ab_channel=YILIANMELGAREJO)
+- [Vídeo entrega final]
