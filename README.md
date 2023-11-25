@@ -22,4 +22,4 @@ df_kick_test=pd.read_csv(url_dontgetkicked_test)
 
 ## Vídeos
 - [Vídeo entrega 2](https://www.youtube.com/watch?v=hI1qfn-OvdA&ab_channel=YILIANMELGAREJO)
-- [Vídeo entrega final]()
+- [Vídeo entrega final](https://www.youtube.com/watch?v=Vb7xJbboFtA&ab_channel=YILIANMELGAREJO)
