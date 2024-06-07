@@ -1,5 +1,7 @@
 # **Proyecto Inteligencia Artificial**
 
+Este es un proyecto enfocado en ciencia de datos en el cual se realiza el preprocesamiento del conjunto de datos y se ejecuta el montaje de diferentes modelos de Machine Learning (como regresión logística, random forest y K-means).
+
   ## Equipo de trabajo
   - Yilian Valentina Melgarejo Campo - CC 1066084001 (Ingeniería Industrial)
   - Karen Marcela Pérez Castila - CC 1005605305 (Ingeniería Industrial)
